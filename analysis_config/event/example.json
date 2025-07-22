@@ -1,0 +1,23 @@
+{
+    "save_file_name": "event_sub_event",
+    "from_dir": "../tweets/filtered/event/sub_event/data/",
+    "to_dir": "../tweets/filtered/event/sub_event/",
+    "buffer_size": 200000,
+    "retweet_size": 1100,
+    "top_users_size": 100,
+    "bot_prediction": false,
+    "priority_tweets_in_timestamps" :[
+        
+    ],
+    "search_terms": [
+        "islam",
+        "islamic",
+        "islamist",
+        "muslims",
+        "muslim",
+        "moslem",
+        "moslems",
+        "mosque",
+        "mosques"
+    ]
+}
